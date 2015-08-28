@@ -1,0 +1,18 @@
+[
+  {
+    "repository": "android_vendor_zte_nx503a",
+    "target_path": "vendor/zte/nx503a"
+  },
+  {
+    "repository": "android_kernel_zte_nx503a",
+    "target_path": "kernel/zte/nx503a"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm"
+  }
+]
